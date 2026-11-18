@@ -1,5 +1,5 @@
 # 💫 About Me:
-Étudiant en B1 cybersécurité à la Plateforme_<br>
+Étudiant en B2 cybersécurité à la Plateforme_<br>
 
 
 # 💻 Tech Stack:
